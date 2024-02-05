@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:food_delivery_app/shared/font_size.dart';
 
+import 'font_size.dart';
 import 'theme.dart';
 
 ThemeData lightTheme = ThemeData(
